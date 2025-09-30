@@ -35,7 +35,7 @@ The analysis focused on:
 4. Key Insights & Recommendations
 
 ## 🗂️ Project Files
-- 📊 [Presentation (PPTX)](https://github.com/HanifPrasetyo/Business-Analyst/blob/8c9230482ca1e67f5d615051fb914c099ebf5a02/Ecommerce-OnlineRetail/ECommerce%20Sales%20Performance%20Dasboard%20Online%20Retail%20Dataset%20.pptx)
+- 📊 [Presentation (PPTX)]([https://github.com/HanifPrasetyo/Business-Analyst/blob/8c9230482ca1e67f5d615051fb914c099ebf5a02/Ecommerce-OnlineRetail/ECommerce%20Sales%20Performance%20Dasboard%20Online%20Retail%20Dataset%20.pptx](https://github.com/vivekviswas25/E-Commerce-Sales-Strategy-Risk-Analysis-Power-BI-.git))
 
 ---
 **Data Source:** [Kaggle: Online Retail Dataset](https://www.kaggle.com/datasets/tunguz/online-retail)
